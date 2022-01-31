@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+TicTacToeGame.sln
+TicTacToeGame.csproj
